@@ -1,0 +1,6 @@
+framework module Pods_HybridProject {
+  umbrella header "Pods-HybridProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
