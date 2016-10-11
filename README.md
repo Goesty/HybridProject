@@ -3,6 +3,7 @@ for exercise github
 
 ```
 clone git url
+mhajshfkla
 
 ```
 ```
